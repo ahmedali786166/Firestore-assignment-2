@@ -5,8 +5,8 @@ Firebase Authentication aur Firestore Database ka istemal karte hue banaya gaya 
 ---
 
 ## 🔗 Live Demo & Links
-* 🌐 **Live URL:** [👉 https://6a3fe9c590d1d3d30f5e1e40--rococo-lamington-224b7b.netlify.app/👈]
-
+* 🌐 **Live URL:** [ https://6a3fe9c590d1d3d30f5e1e40--rococo-lamington-224b7b.netlify.app/]
+ 
 
 ---
 
